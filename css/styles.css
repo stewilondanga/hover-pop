@@ -26,7 +26,7 @@
   width: 100vw;
 }
 
-/*.item {
+.item {
   align-items: center;
   background-color: #fff;
   border: 1px solid #eee;
@@ -37,7 +37,8 @@
   width: 400px;
   z-index: 1000;
 }
-.item img {
+
+/*.item img {
   object-fit: cover;
   height: 400px;
   width: 400px;
