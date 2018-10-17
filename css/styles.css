@@ -1,11 +1,8 @@
-/*body {
-  text-align: center;
-  font-family: courier;
-  background-image: url("../assets/image.jpeg");
-  background-repeat: no-repeat;
-  background-size: 100%;
+* {
+  box-sizing: border-box;
 }
 
+/*
 .my_social {
   position: absolute;
   top: 25px;
@@ -21,9 +18,6 @@
   height: 1.5em;
 }
 
-* {
-  box-sizing: border-box;
-}
 
 .container {
   align-items: center;
