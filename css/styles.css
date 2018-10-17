@@ -44,7 +44,7 @@
   width: 400px;
 }
 
-/*.item::before, .item::after {
+.item::before, .item::after {
   background-image: linear-gradient(-180deg, #A1DEFF 0%, #5EA3DB 97%);
   content: '';
   height: 100%;
@@ -55,7 +55,8 @@
   width: 100%;
   z-index: -1;
 }
-.item::after {
+
+/*.item::after {
   background-image: linear-gradient(0deg, #FFCF70 0%, #FFAE3D 97%);
 }
 .item:hover {
