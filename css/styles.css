@@ -76,12 +76,12 @@
   transform: translateY(-20px) translateX(-20px);
 }
 
-/*.item:hover::after {
+.item:hover::after {
   animation: slick-hover 3s .4s linear infinite reverse;
   transform: translateY(20px) translateX(20px);
 }
 
-@keyframes hoverPop {
+/*@keyframes hoverPop {
   0%, 100% {
     transform: scale(1);
   }
