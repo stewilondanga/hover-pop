@@ -17,7 +17,7 @@
   height: 1.5em;
 }
 
-/*.container {
+.container {
   align-items: center;
   background: #fff;
   display: flex;
@@ -26,7 +26,7 @@
   width: 100vw;
 }
 
-.item {
+/*.item {
   align-items: center;
   background-color: #fff;
   border: 1px solid #eee;
