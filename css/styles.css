@@ -38,12 +38,13 @@
   z-index: 1000;
 }
 
-/*.item img {
+.item img {
   object-fit: cover;
   height: 400px;
   width: 400px;
 }
-.item::before, .item::after {
+
+/*.item::before, .item::after {
   background-image: linear-gradient(-180deg, #A1DEFF 0%, #5EA3DB 97%);
   content: '';
   height: 100%;
