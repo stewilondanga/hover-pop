@@ -56,10 +56,11 @@
   z-index: -1;
 }
 
-/*.item::after {
+.item::after {
   background-image: linear-gradient(0deg, #FFCF70 0%, #FFAE3D 97%);
 }
-.item:hover {
+
+/*.item:hover {
   animation-name: hoverPop;
   animation-duration: .4s;
   animation-fill-direction: forward;
