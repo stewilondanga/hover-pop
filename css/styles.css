@@ -81,7 +81,7 @@
   transform: translateY(20px) translateX(20px);
 }
 
-/*@keyframes hoverPop {
+@keyframes hoverPop {
   0%, 100% {
     transform: scale(1);
   }
@@ -92,7 +92,8 @@
     transform: scale(0.9);
   }
 }
-@keyframes slick-hover {
+
+/*@keyframes slick-hover {
   0.00% {
     transform: translateY(20px) translateX(20px);
   }
